@@ -29,3 +29,6 @@ The goal of this project was to learn and implement basic 3D game development co
 
 ## Credits
 Developed by: Maheen Zahid,Eman Zahid
+
+##Game
+This is the executable version of the game. The original project files were accidentally lost.
